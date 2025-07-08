@@ -1,6 +1,3 @@
-That's a great automation project, Syam! Below is a **detailed project description (theory only)**, suitable for **your GitHub README, final year report, or viva presentation**.
-
----
 
 ## 📌 **Project Title:**
 
